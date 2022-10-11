@@ -1,0 +1,2 @@
+relative : its own position
+absolute : the position of its parent(as in this case no parent is positioned fixed so it takes html as parent)
